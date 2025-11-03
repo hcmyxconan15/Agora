@@ -1,0 +1,14 @@
+{
+  "name": "com.optimizer.agora",
+  "displayName": "Agora",
+  "version": "1.0.0",
+  "unity": "2021.1",
+
+  "samples": [
+    {
+      "displayName": "Agora",
+      "description": "Agora",
+      "path": "Agora"
+    }
+  ]
+}
